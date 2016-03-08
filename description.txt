@@ -1,0 +1,7 @@
+0=Absent
+1=Voted Yes
+2=Voted No
+55=President (did not vote)
+56=Vice-president (did not vote)
+88=Did not vote
+99=Not a Diet member.
